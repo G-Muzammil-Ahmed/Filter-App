@@ -1,0 +1,329 @@
+[
+    {
+      "id": 1,
+      "name": "Acl Laboratories",
+      "providerType": "Outpatient Diagnostic or Treatment Center",
+      "speciality": "Laboratory",
+      "address": {
+        "address1": "60 Gramercy Park N Apt 1B",
+        "address2": "New York, NY 10010"
+      },
+      "phone": "(212) 254-1220",
+      "labels": [
+        "Preferred Lab",
+        "Designated Diagnostic Provider: Lab",
+        "Freestanding Facility"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Advanced Mobile Healthcare",
+      "providerType": "Neurology",
+      "speciality": "Family Practice",
+      "address": {
+        "address1": "750 W D Ave",
+        "address2": "Kingman, KS 67068"
+      },
+      "phone": "(620) 532-3147",
+      "labels": [
+        "Tier 1 Provider",
+        "Accepting All Patients",
+        "In-Network Provider"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Baringer",
+      "providerType": "Internal Medicine",
+      "speciality": "Family Practice",
+      "address": {
+        "address1": "680 N Lake Shore Dr Ste ",
+        "address2": "Chicago, IL 60611"
+      },
+      "phone": "(312) 943-3300",
+      "labels": [
+        "Tier 1 Provider",
+        "Premium Care Physician",
+        "Accepting All Patients",
+        "In-Network Provider"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Benjamin Barrah",
+      "providerType": "Internal Medicine",
+      "speciality": "Cardiac Surgeon",
+      "address": {
+        "address1": "103 N Maine",
+        "address2": "StCheney, KS 67025"
+      },
+      "phone": "(620) 439-3241",
+      "labels": ["Tier 1 Provider", "In-Network Provider"]
+    },
+    {
+      "id": 5,
+      "name": "Benjamin Morries D",
+      "providerType": "Family Practice",
+      "speciality": "Audiologist",
+      "address": {
+        "address1": "750 W D Ave",
+        "address2": "Kingman, KS 67068"
+      },
+      "phone": "(620) 532-3147",
+      "labels": [
+        "Tier 1 Provider",
+        "Accepting All Patients",
+        "In-Network Provider"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Center Forgynecology and Cosmetics",
+      "providerType": "Pediatrics",
+      "speciality": "Audiology",
+      "address": {
+        "address1": "3263 Columbia Pike",
+        "address2": "Arlington, VA 22204"
+      },
+      "phone": "(703) 746-0111",
+      "labels": [
+        "Tier 1 Provider",
+        "Premium Care Physician",
+        "Accepting All Patients"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Cherie MD",
+      "providerType": "Family Practice",
+      "speciality": "Family Practice",
+      "address": {
+        "address1": "2653 W Ogden Ave Fl 3",
+        "address2": "Chicago, IL 60608"
+      },
+      "phone": "(773) 522-6100",
+      "labels": ["Premium Care Physician", "In-Network Provider"]
+    },
+    {
+      "id": 8,
+      "name": "Healthlab Part of Northwestern Medicine",
+      "providerType": "Laboratory",
+      "speciality": "Laboratory",
+      "address": {
+        "address1": "3022 Williams Dr Ste 300",
+        "address2": "Fairfax, VA 22031"
+      },
+      "phone": "(703) 573-9800",
+      "labels": ["Preferred Lab", "Designated Diagnostic Provider: Lab"]
+    },
+    {
+      "id": 9,
+      "name": "Laboratory Corp of America Holdings",
+      "providerType": "Laboratory",
+      "speciality": "Laboratory",
+      "address": {
+        "address1": "1st Ave At 16th St",
+        "address2": "New York, NY 10003"
+      },
+      "phone": "(212) 844-1808",
+      "labels": [
+        "Preferred Lab",
+        "Designated Diagnostic Provider: Lab",
+        "Freestanding Facility"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "MRI Lincoln Imaging",
+      "providerType": "X-ray and Radiology Facility",
+      "speciality": "MRI",
+      "address": {
+        "address1": "3430 Worthington Blvd Ste 103",
+        "address2": "Frederick, MD 21704"
+      },
+      "phone": "(240) 215-6900",
+      "labels": [
+        "Designated Diagnostic Provider: Imaging",
+        "Freestanding Facility",
+        "In-Network Provider"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Maydew Medical Group",
+      "providerType": "Cardiology",
+      "speciality": "Physical Therapy",
+      "address": {
+        "address1": "840 Executive Ln Ste 140",
+        "address2": "Rockledge, FL 32955"
+      },
+      "phone": "(321) 751-7115",
+      "labels": [
+        "Tier 1 Provider",
+        "Premium Care Physician",
+        "Accepting All Patients",
+        "In-Network Provider"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Mid America Clinical Laboratories",
+      "providerType": "Outpatient Diagnostic or Treatment Center",
+      "speciality": "Laboratory",
+      "address": {
+        "address1": "381 Elden St Ste 1000",
+        "address2": "Herndon, VA 20170"
+      },
+      "phone": "(703) 481-1505",
+      "labels": [
+        "Preferred Lab",
+        "Designated Diagnostic Provider: Lab",
+        "Freestanding Facility"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Molecular Imaging Chicago",
+      "providerType": "X-ray and Radiology Facility",
+      "speciality": "Radiology Facility",
+      "address": {
+        "address1": "676 N Saint Clair St Ste 415",
+        "address2": "Chicago, IL 60611"
+      },
+      "phone": "(312) 926-3627",
+      "labels": [
+        "Designated Diagnostic Provider: Imaging",
+        "Freestanding Facility",
+        "In-Network Provider"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "NM Lab",
+      "providerType": "X-ray and Radiology Facility",
+      "speciality": "Radiology Facility",
+      "address": {
+        "address1": "196 Merrick Rd ",
+        "address2": "Oceanside, NY 11572"
+      },
+      "phone": "(516) 255-8400",
+      "labels": ["Designated Diagnostic Provider: Imaging", "In-Network Provider"]
+    },
+    {
+      "id": 15,
+      "name": "Polsono Mobile Ultrasound",
+      "providerType": "X-ray and Radiology Facility",
+      "speciality": "Radiology Facility",
+      "address": {
+        "address1": "518 E 20th St",
+        "address2": "New York, NY 10009"
+      },
+      "phone": "(646) 682-3555",
+      "labels": ["Designated Diagnostic Provider: Imaging", "In-Network Provider"]
+    },
+    {
+      "id": 16,
+      "name": "Quest Diagnostics",
+      "providerType": "Laboratory",
+      "speciality": "Laboratory",
+      "address": {
+        "address1": "750 W D Ave",
+        "address2": "Kingman, KS 67068"
+      },
+      "phone": "(620) 532-3147",
+      "labels": ["Preferred Lab", "Designated Diagnostic Provider: Lab"]
+    },
+    {
+      "id": 17,
+      "name": "Rehabcare Medical Group East KS",
+      "providerType": "Ophthalmology",
+      "speciality": "Physical Therapy",
+      "address": {
+        "address1": "115 Park St SE Ste 205",
+        "address2": "Vienna, VA 22180"
+      },
+      "phone": "(703) 255-9100",
+      "labels": [
+        "Tier 1 Provider",
+        "Premium Care Physician",
+        "Accepting All Patients"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Saka Kazeem",
+      "providerType": "Internal Medicine",
+      "speciality": "Family Practice",
+      "address": {
+        "address1": "30 N Michigan Ave Ste 1218",
+        "address2": "Chicago, IL 60602"
+      },
+      "phone": "(312) 789-4677",
+      "labels": ["Premium Care Physician", "In-Network Provider"]
+    },
+    {
+      "id": 19,
+      "name": "Sara Nizam",
+      "providerType": "Internal Medicine",
+      "speciality": "Massage Therapist",
+      "address": {
+        "address1": "38 E 32nd St Fl 3",
+        "address2": "New York, NY 10016"
+      },
+      "phone": "(212) 879-7777",
+      "labels": [
+        "Tier 1 Provider",
+        "Premium Care Physician",
+        "Accepting All Patients",
+        "In-Network Provider"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Simonmed Imaging",
+      "providerType": "X-ray and Radiology Facility",
+      "speciality": "X-ray & Radiology Facility",
+      "address": {
+        "address1": "675 N Saint Clair St Ste 18-200",
+        "address2": "Chicago, IL 60611"
+      },
+      "phone": "(312) 695-8630",
+      "labels": [
+        "Designated Diagnostic Provider: Imaging",
+        "Freestanding Facility",
+        "In-Network Provider"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Vigilias LLC",
+      "providerType": "Internal Medicine",
+      "speciality": "Speech Pathology",
+      "address": {
+        "address1": "115 Park St SE Ste 205",
+        "address2": "Vienna, VA 22180"
+      },
+      "phone": "(703) 255-9100",
+      "labels": [
+        "Tier 1 Provider",
+        "Accepting All Patients",
+        "In-Network Provider"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Wichita Medical Group",
+      "providerType": "Internal Medicine",
+      "speciality": "Family Practice",
+      "address": {
+        "address1": "7137 N US Highway 1",
+        "address2": "Cocoa, FL 32927"
+      },
+      "phone": "(321) 632-3500",
+      "labels": [
+        "Tier 1 Provider",
+        "Accepting All Patients",
+        "In-Network Provider"
+      ]
+    }
+  ]

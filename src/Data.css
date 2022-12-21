@@ -1,0 +1,38 @@
+.jsonData{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding-left: 24px;
+    padding-bottom: 35px;
+    border: 1px solid black;
+    border-right-style: hidden;
+    column-gap: 486px;}
+
+.mybtn{
+    justify-self: center;
+    margin: 25px;
+}
+.mybtn button{
+    border-radius: 12px;
+    background-color: rgb(70, 70, 180);
+    color: white;
+}
+
+.lbl{
+    display: flex;
+    flex-direction: column;
+}
+
+.bold{
+    font-size: larger;
+    font-weight: bolder;
+}
+.form-select{
+    right: 2px;
+
+    display: flex;
+    width: 100px;
+    margin-left: 94%;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding-top: 0px;
+}
